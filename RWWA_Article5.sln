@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureStorageFileSyncTool", "AzureStorageFileSyncTool\AzureStorageFileSyncTool.csproj", "{D151B7C4-1FCD-4BB0-89ED-9E468F9A44D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsoleApp", "DemoConsoleApp\DemoConsoleApp.csproj", "{9FC8629E-3B9E-42F6-BC7E-E0547522D786}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{219E430F-F6A8-451C-93E0-D8E9E33A85EC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D151B7C4-1FCD-4BB0-89ED-9E468F9A44D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D151B7C4-1FCD-4BB0-89ED-9E468F9A44D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D151B7C4-1FCD-4BB0-89ED-9E468F9A44D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D151B7C4-1FCD-4BB0-89ED-9E468F9A44D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC8629E-3B9E-42F6-BC7E-E0547522D786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC8629E-3B9E-42F6-BC7E-E0547522D786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC8629E-3B9E-42F6-BC7E-E0547522D786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC8629E-3B9E-42F6-BC7E-E0547522D786}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
