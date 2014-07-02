@@ -1,4 +1,4 @@
-RWWA-Article5
+RWWA-Article 5
 =============
 
 Real World Windows Azure: In die Cloud loggen http://rolandkru.azurewebsites.net/rwwa/
